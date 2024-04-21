@@ -1,2 +1,0 @@
-
-def skip_forward():

@@ -8,9 +8,9 @@
 ## `Translation 🔗`
 
   
-- [فارسی](FA.md)
+- [فارسی](Translation/FA.md)
 
-- [عربية](AR.md)
+- [عربية](Translation/AR.md)
 
 
 Table of contents ✅✔
