@@ -9,9 +9,9 @@
 ## `Translation 🔗`
 
   
-- [فارسی](https://github.com/jokernets/snake-game/blob/main/Translatin/FA.md)
+- [ٍEnglish](https://github.com/jokernets/Music-player/blob/main/README.md)
 
-- [عربية](https://github.com/jokernets/snake-game/blob/main/Translatin/AR.md)
+- [عربية](https://github.com/jokernets/Music-player/blob/main/Translation/AR.md)
 
 
 ## جدول و فهرست مطالب ✅✔
