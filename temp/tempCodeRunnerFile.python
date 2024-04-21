@@ -1,0 +1,17 @@
+from tkinter import *
+
+root=Tk()
+root.geometry("400x300")
+
+from playsound import playsound
+
+def play_sound(file_path):
+    playsound(file_path)
+
+# مثال استفاده:
+sound_file = 'path/to/your/soundfile.wav'
+play_sound(sound_file)
+
+
+
+root.mainloop()
