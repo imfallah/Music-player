@@ -83,7 +83,7 @@ root.geometry("400x480+{}+{}".format(root.winfo_screenwidth() // 2 -270, root.wi
 
 root.mainloop()
 ```
-<img src="https://github.com/jokernets/y/assets/165279911/54a3c058-81cf-419e-81eb-b8f4147134cf" width="200" height="300"><br><br>
+<img src="https://github.com/jokernets/Music-player/assets/165279911/adf6cf19-09fb-46b3-8ec0-aafee6b11a43" width="200" height="300"><br><br>
 
 ## افزودن تابع ...
 
@@ -244,14 +244,13 @@ slider.place(relx=0.5, rely=0.85, anchor=tkinter.CENTER)
 progressbar = customtkinter.CTkProgressBar(master=root, progress_color='#32a85a',width=250)
 progressbar.place(relx=.5, rely=.78, anchor=tkinter.CENTER)
 ```
-<img src="https://github.com/jokernets/y/assets/165279911/6deeb82b-a2c8-4594-866a-632eb9f05920" width="200" height="300"><br><br><img src="https://github.com/jokernets/y/blob/main/music.gif" width="200" height="300"><br><br>
+<img src="https://github.com/jokernets/Music-player/assets/165279911/86db0356-d0b9-41ea-96fd-c15634fa5cc0" width="200" height="300"><br><br><img src="https://github.com/jokernets/y/blob/main/music.gif" width="200" height="300"><br><br>
 
 ## نمونه های بیشتر و ویترین 🎄👑
 
 ### تصویر ویدیویی برنامه 📺
 
-
-  # "هیچ چیز را احساس نکن".
+https://github.com/jokernets/Music-player/assets/165279911/760e6b56-4831-4660-8dca-3fa1c6fb9d67
 
 
 # "من را وصل کن"🌐👻
